@@ -1,5 +1,5 @@
 ## Bruno De Sousa Teixeira
-Sou estudante de Sistemas de Informação do Quarto período
+Sou estudante de Sistemas de Informação do Quinto período
 #### Conecte-se comigo 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunoteixeira042/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brunoteixeira042@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunosousa-dev/)
 
