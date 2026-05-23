@@ -62,13 +62,13 @@ interesses:
 <p align="center">
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" alt="Linux" height="50" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" alt="Bash" height="50" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" height="50" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" alt="Git" height="50" />
   </a>
@@ -77,13 +77,13 @@ interesses:
 <p align="center">
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/fastapi.png" alt="FastAPI" height="50" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/streamlit.png" alt="Streamlit" height="50" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" alt="Pandas" height="50" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://numpy.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" alt="NumPy" height="50" />
   </a>
@@ -92,13 +92,13 @@ interesses:
 <p align="center">
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" alt="PostgreSQL" height="50" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" alt="MySQL" height="50" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/sqlite.png" alt="SQLite" height="50" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" height="50" />
   </a>
