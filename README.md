@@ -3,7 +3,7 @@
 # Bruno De Sousa Teixeira
 
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=Junior+Network+Analyst;Data+Analyst;Information+Systems+Student;Linux+%7C+Python+%7C+SQL"
+  src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=850&lines=Analista+de+Redes+Júnior;Analista+de+Dados;Estudante+de+Sistemas+de+Informação;Estudando+Engenharia+de+Dados;Linux+%7C+Python+%7C+SQL"
   alt="Typing SVG"
 />
 
@@ -29,37 +29,34 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
 ```yaml
-name: Bruno De Sousa Teixeira
-located_in: Brazil
+nome: Bruno De Sousa Teixeira
+localização: Brasil
 
-roles:
+cargos:
   [
-    "Junior Network Analyst",
-    "Data Analyst"
+    "Analista de Redes Júnior",
+    "Analista de Dados"
   ]
 
-education:
+formação:
   [
-    "Information Systems Student - 8th Semester"
+    "Estudante de Sistemas de Informação - 8º Período"
   ]
 
-current_focus:
+estudando_atualmente:
   [
-    "Data Analysis",
-    "Networks",
-    "SQL",
-    "Machine Learning",
+    "Engenharia de Dados",
     "Cloud Computing"
   ]
 
-interests:
+interesses:
   [
     "Linux",
-    "Cyber Infrastructure",
+    "Infraestrutura",
+    "Banco de Dados",
     "Analytics",
-    "Open Source",
-    "Data Engineering"
+    "Open Source"
   ]
