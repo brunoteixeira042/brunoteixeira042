@@ -29,7 +29,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+# 👨‍💻 Sobre Mim
 
 ```yaml
 nome: Bruno De Sousa Teixeira
