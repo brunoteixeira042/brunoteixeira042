@@ -102,4 +102,4 @@ interesses:
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" height="50" />
   </a>
-</p>****
+</p>
