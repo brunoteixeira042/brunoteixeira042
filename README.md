@@ -2,7 +2,7 @@
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Bruno%20De%20Sousa%20Teixeira&fontSize=40&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Sistemas%20de%20Informação%20•%208º%20Período&descAlignY=58&descSize=17&descColor=8b949e)](https://github.com/brunoteixeira042)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=950&lines=Analista+de+Redes+Júnior;Analista+de+Dados;Estudante+de+Sistemas+de+Informação;Estudando+Engenharia+de+Dados" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=950&lines=Analista+de+Redes+Jr;Analista+de+Dados+Jr;Estudando+Cloud+Computing;Estudando+Engenharia+de+Dados" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=brunoteixeira042&color=58a6ff&style=for-the-badge&label=VISITAS+AO+PERFIL)
 
@@ -32,19 +32,7 @@ localização: Brasil
 
 cargos:
   [
-    "Analista de Redes Júnior",
-    "Analista de Dados"
-  ]
-
-formação:
-  [
-    "Estudante de Sistemas de Informação - 8º Período"
-  ]
-
-estudando_atualmente:
-  [
-    "Engenharia de Dados",
-    "Cloud Computing"
+    "Analista de Redes Júnior"
   ]
 
 interesses:
@@ -79,14 +67,19 @@ interesses:
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" alt="MySQL" height="35"/></a>&nbsp;&nbsp;
 <a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/sqlite.png" alt="SQLite" height="35"/></a>
 
+
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoteixeira042&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoteixeira042&layout=compact&langs_count=7&theme=github_dark&border_radius=12&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunoteixeira042&theme=github_dark" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunoteixeira042&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brunoteixeira042&theme=github_dark" width="49%"/>
 
 </div>
 
